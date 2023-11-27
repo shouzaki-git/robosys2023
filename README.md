@@ -3,7 +3,7 @@
 
 標準入力から読み込んだ数字を足す。
 
-##インストール方法
+## インストール方法
 * 以下のコマンドを実行
 ```
  $ git clone https://github.com/shouzaki-git/robosys2023.git
