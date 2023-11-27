@@ -1,4 +1,4 @@
-#1/bin/bush -xv
+#1/bin/bash -xv
 # SPDX-FileCopyrightText: 2023 Sho Uzaki
 # SPDX-License-Identifier: BSD-3-Clause
 
