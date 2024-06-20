@@ -10,10 +10,10 @@ cv2.namedWindow('trackbar')
 def pick_up_ball():
     # Load the calibration data
    
-    fx = 2.26065911 # Focal length from camera matrix
-    fy = 2.27075907
-    cx = 2.27075907 
-    cy = 9.85314389  # Principal point coordinates
+    fx = 496.61684127 # Focal length from camera matrix
+    fy = 499.09671473
+    cx = 429.43023107 
+    cy = 223.57048473  # Principal point coordinates
 
     cap = cv2.VideoCapture(0)
     cap.set(3, 640)
